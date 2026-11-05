@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1143633" tvg-name="FR - LIGUE1 + 8" tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="باقة FR - LIGUE+",FR - LIGUE1 + 8
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1143633&extension=ts&play_token=SlC5JdZSJl
+#EXTINF:-1 tvg-id="1299831" tvg-name="FR - LIGUE1+ FHD ( Samedi Match 1)" tvg-logo="http://103.176.90.154/picons/logos/france/1902427.png" group-title="باقة FR - LIGUE+",FR - LIGUE1+ FHD ( Samedi Match 1)
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1299831&extension=ts&play_token=jlt7JUg1BE
+#EXTINF:-1 tvg-id="1299838" tvg-name="FR - LIGUE1+ HD ( Samedi Match 2)" tvg-logo="http://103.176.90.154/picons/logos/france/1902434.png" group-title="باقة FR - LIGUE+",FR - LIGUE1+ HD ( Samedi Match 2)
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1299838&extension=ts&play_token=2yzzVFtkOp

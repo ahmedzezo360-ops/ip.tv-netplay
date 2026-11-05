@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="629861" tvg-name="FR - MTV FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629861.png" group-title="منوعات",FR - MTV FHD
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=629861&extension=ts
+#EXTINF:-1 tvg-id="553673" tvg-name="FR - RTL 9 4K" tvg-logo="http://103.176.90.154/picons/logos/france/553673.png" group-title="منوعات",FR - RTL 9 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553673&extension=ts&play_token=udOq0WczIA
+#EXTINF:-1 tvg-id="1284536" tvg-name="|4K| DIGI UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="منوعات",|4K| DIGI UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284536&extension=ts&play_token=VN4EWYEKaU
+#EXTINF:-1 tvg-id="1284570" tvg-name="|4K| TRT UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="منوعات",|4K| TRT UHD
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284570&extension=ts

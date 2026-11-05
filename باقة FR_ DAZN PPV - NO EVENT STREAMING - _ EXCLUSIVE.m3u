@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1141405" tvg-name="FR - DAZN 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/dazn.png" group-title="باقة FR: DAZN PPV - NO EVENT STREAMING - | EXCLUSIVE",FR - DAZN 1 FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1141405&extension=ts&play_token=J1LyVtx6hC
+#EXTINF:-1 tvg-id="1410042" tvg-name="FR - DAZN 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="باقة FR: DAZN PPV - NO EVENT STREAMING - | EXCLUSIVE",FR - DAZN 3 FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1410042&extension=ts&play_token=tWUdhwGOZE

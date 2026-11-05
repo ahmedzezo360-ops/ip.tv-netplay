@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="582820" tvg-name="AR - DOROS 1" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - DOROS",AR - DOROS 1
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582820&extension=ts&play_token=e5hkLyPrth
+#EXTINF:-1 tvg-id="582819" tvg-name="AR - DOROS 2" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - DOROS",AR - DOROS 2
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582819&extension=ts&play_token=cCKtR0dngu
+#EXTINF:-1 tvg-id="582817" tvg-name="AR - DOROS 4" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - DOROS",AR - DOROS 4
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582817&extension=ts&play_token=2RsWdG6tGs
+#EXTINF:-1 tvg-id="582815" tvg-name="AR - DOROS 6" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - DOROS",AR - DOROS 6
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582815&extension=ts&play_token=x19TsRADoZ

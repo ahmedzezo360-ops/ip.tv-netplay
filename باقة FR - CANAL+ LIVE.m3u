@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1150866" tvg-name="FR - CANAL+ LIVE 15" tvg-logo="http://103.176.90.154/picons/logos/france/1150866.png" group-title="باقة FR - CANAL+ LIVE",FR - CANAL+ LIVE 15
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1150866&extension=ts&play_token=w025bqjaCC
+#EXTINF:-1 tvg-id="1150879" tvg-name="FR - CANAL+ LIVE 2" tvg-logo="http://103.176.90.154/picons/logos/france/1150879.png" group-title="باقة FR - CANAL+ LIVE",FR - CANAL+ LIVE 2
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1150879&extension=ts&play_token=688QHlDAXQ
+#EXTINF:-1 tvg-id="1389158" tvg-name="FR - CANAL+LIVE 10" tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/CANALPLUSLIVE.png" group-title="باقة FR - CANAL+ LIVE",FR - CANAL+LIVE 10
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1389158&extension=ts&play_token=GqMSbV3qbP
+#EXTINF:-1 tvg-id="1389170" tvg-name="FR - CANAL+LIVE 5" tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/CANALPLUSLIVE.png" group-title="باقة FR - CANAL+ LIVE",FR - CANAL+LIVE 5
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1389170&extension=ts&play_token=UgxZb7DGMK

@@ -1,0 +1,35 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="862851" tvg-name="BEIN MOVIES DRAMA 3 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862851.png" group-title="أفلام وسينما",BEIN MOVIES DRAMA 3 HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=862851&extension=ts&play_token=r54Bge0qBf
+#EXTINF:-1 tvg-id="553687" tvg-name="FR - CANAL+ CINEMA 4K" tvg-logo="http://103.176.90.154/picons/logos/france/553687.png" group-title="أفلام وسينما",FR - CANAL+ CINEMA 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553687&extension=ts&play_token=L8bSk4PnvG
+#EXTINF:-1 tvg-id="721459" tvg-name="FR - GUADLOUPE PREMIERE HD" tvg-logo="http://103.176.90.154/picons/logos/france/721459.png" group-title="أفلام وسينما",FR - GUADLOUPE PREMIERE HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=721459&extension=ts&play_token=a3WV3Umxrp
+#EXTINF:-1 tvg-id="1411331" tvg-name="FR - NETFLIX ADVENTURE" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX ADVENTURE
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411331&extension=ts&play_token=tErl4fJZjw
+#EXTINF:-1 tvg-id="1411330" tvg-name="FR - NETFLIX COMEDY" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX COMEDY
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411330&extension=ts&play_token=5okso4oUfU
+#EXTINF:-1 tvg-id="1411328" tvg-name="FR - NETFLIX DRAMA" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX DRAMA
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411328&extension=ts&play_token=1U45g26LSr
+#EXTINF:-1 tvg-id="1411302" tvg-name="FR - NETFLIX ENFANTS 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX ENFANTS 2 FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411302&extension=ts&play_token=oKtDi07j2A
+#EXTINF:-1 tvg-id="1411306" tvg-name="FR - NETFLIX FILMS 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX FILMS 3 FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411306&extension=ts&play_token=DMtRSlgMcz
+#EXTINF:-1 tvg-id="1411305" tvg-name="FR - NETFLIX FILMS 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX FILMS 4 FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411305&extension=ts&play_token=hMBza5wco1
+#EXTINF:-1 tvg-id="1411325" tvg-name="FR - NETFLIX ROMANCE" tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="أفلام وسينما",FR - NETFLIX ROMANCE
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1411325&extension=ts&play_token=hTqfPQLSgX
+#EXTINF:-1 tvg-id="548782" tvg-name="FR - OCS GO CINEMA 4 HD" tvg-logo="http://103.176.90.154/picons/logos/france/548782.png" group-title="أفلام وسينما",FR - OCS GO CINEMA 4 HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=548782&extension=ts&play_token=EVEef05ne5
+#EXTINF:-1 tvg-id="543219" tvg-name="FR - PARIS PREMIERE" tvg-logo="http://103.176.90.154/picons/logos/france/543219.png" group-title="أفلام وسينما",FR - PARIS PREMIERE
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543219&extension=ts&play_token=TBxkte7GRw
+#EXTINF:-1 tvg-id="553671" tvg-name="FR - SYFY 4K" tvg-logo="http://103.176.90.154/picons/logos/france/553671.png" group-title="أفلام وسينما",FR - SYFY 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553671&extension=ts&play_token=DXdgxSljJr
+#EXTINF:-1 tvg-id="543504" tvg-name="FR - TCM CINEMA" tvg-logo="http://103.176.90.154/picons/logos/france/543504.png" group-title="أفلام وسينما",FR - TCM CINEMA
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543504&extension=ts&play_token=wnwIb93I8Y
+#EXTINF:-1 tvg-id="553999" tvg-name="FR - TCM CINEMA FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553999.png" group-title="أفلام وسينما",FR - TCM CINEMA FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553999&extension=ts&play_token=TQGSWzJEzm
+#EXTINF:-1 tvg-id="1389257" tvg-name="FR - TF1 SERIES FILMS" tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/TF1SERIESFILMS.png" group-title="أفلام وسينما",FR - TF1 SERIES FILMS
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1389257&extension=ts&play_token=VzvwlfWgXY
+#EXTINF:-1 tvg-id="1284576" tvg-name="|4K| CANAL+ BOX OFFICE UHD/4K" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="أفلام وسينما",|4K| CANAL+ BOX OFFICE UHD/4K
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284576&extension=ts

@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="543268" tvg-name="FR - MELODY" tvg-logo="http://103.176.90.154/picons/logos/france/543268.png" group-title="أغاني وموسيقى",FR - MELODY
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543268&extension=ts&play_token=Un6KmGF7Gp
+#EXTINF:-1 tvg-id="543271" tvg-name="FR - MTV LIVE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543271.png" group-title="أغاني وموسيقى",FR - MTV LIVE UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543271&extension=ts&play_token=hkKy93wpaz
+#EXTINF:-1 tvg-id="1389263" tvg-name="FR - TRACE AYITI" tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/TRACEAYITI.png" group-title="أغاني وموسيقى",FR - TRACE AYITI
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1389263&extension=ts&play_token=pOiB53wxto
+#EXTINF:-1 tvg-id="845313" tvg-name="FR - TRACE CARRIBEAN HEVC" tvg-logo="http://103.176.90.154/picons/logos/france/845313.png" group-title="أغاني وموسيقى",FR - TRACE CARRIBEAN HEVC
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=845313&extension=ts&play_token=8ru0vxuAJS
+#EXTINF:-1 tvg-id="543256" tvg-name="FR - TRACE LATINA UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543256.png" group-title="أغاني وموسيقى",FR - TRACE LATINA UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543256&extension=ts&play_token=icjLP81jr4
+#EXTINF:-1 tvg-id="543260" tvg-name="FR - TRACE TOCA" tvg-logo="http://103.176.90.154/picons/logos/france/543260.png" group-title="أغاني وموسيقى",FR - TRACE TOCA
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543260&extension=ts&play_token=zMImfd97tB
+#EXTINF:-1 tvg-id="629868" tvg-name="FR - TRACE URBAN FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629868.png" group-title="أغاني وموسيقى",FR - TRACE URBAN FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=629868&extension=ts&play_token=Es5vth2ZN2
+#EXTINF:-1 tvg-id="543254" tvg-name="FR - TRACE URBAN UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543254.png" group-title="أغاني وموسيقى",FR - TRACE URBAN UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543254&extension=ts&play_token=RYb4Il9DeZ

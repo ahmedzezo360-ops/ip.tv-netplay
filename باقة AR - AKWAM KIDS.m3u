@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="582799" tvg-name="AR - AKWAM KIDS 10 HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - AKWAM KIDS",AR - AKWAM KIDS 10 HD
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=582799&extension=ts
+#EXTINF:-1 tvg-id="582796" tvg-name="AR - AKWAM KIDS 13 HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - AKWAM KIDS",AR - AKWAM KIDS 13 HD
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=582796&extension=ts
+#EXTINF:-1 tvg-id="582806" tvg-name="AR - AKWAM KIDS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - AKWAM KIDS",AR - AKWAM KIDS 3 HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582806&extension=ts&play_token=ESdSkQvjIC
+#EXTINF:-1 tvg-id="582804" tvg-name="AR - AKWAM KIDS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - AKWAM KIDS",AR - AKWAM KIDS 5 HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=582804&extension=ts&play_token=Npuwtmbgx6
+#EXTINF:-1 tvg-id="582803" tvg-name="AR - AKWAM KIDS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDS.png" group-title="باقة AR - AKWAM KIDS",AR - AKWAM KIDS 6 HD
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=582803&extension=ts

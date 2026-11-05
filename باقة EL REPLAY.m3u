@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="804238" tvg-name="CL REPLAY 1 UHD" tvg-logo="https://iili.io/60QD5N.md.png" group-title="باقة EL REPLAY",CL REPLAY 1 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=804238&extension=ts&play_token=zJxPjttocV
+#EXTINF:-1 tvg-id="804232" tvg-name="CL REPLAY 7 UHD" tvg-logo="https://iili.io/60QD5N.md.png" group-title="باقة EL REPLAY",CL REPLAY 7 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=804232&extension=ts&play_token=t78UVmubcS
+#EXTINF:-1 tvg-id="856248" tvg-name="EL REPLAY 5 UHD" tvg-logo="https://iili.io/60btGn.md.png" group-title="باقة EL REPLAY",EL REPLAY 5 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=856248&extension=ts&play_token=CG9ira0p4m
+#EXTINF:-1 tvg-id="856244" tvg-name="EL REPLAY 9 UHD" tvg-logo="https://iili.io/60btGn.md.png" group-title="باقة EL REPLAY",EL REPLAY 9 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=856244&extension=ts&play_token=e2plJbQ2VE

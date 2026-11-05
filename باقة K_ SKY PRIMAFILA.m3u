@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1284534" tvg-name="|4K| SKY PRIMAFILA 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="باقة K| SKY PRIMAFILA",|4K| SKY PRIMAFILA 1 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284534&extension=ts&play_token=tWv07x7JOx
+#EXTINF:-1 tvg-id="1284532" tvg-name="|4K| SKY PRIMAFILA 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="باقة K| SKY PRIMAFILA",|4K| SKY PRIMAFILA 3 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284532&extension=ts&play_token=Q844xQ4Gex
+#EXTINF:-1 tvg-id="1284527" tvg-name="|4K| SKY PRIMAFILA 8 UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="باقة K| SKY PRIMAFILA",|4K| SKY PRIMAFILA 8 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284527&extension=ts&play_token=UtjWIL5Syu
+#EXTINF:-1 tvg-id="1284526" tvg-name="|4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="باقة K| SKY PRIMAFILA",|4K| SKY PRIMAFILA 9 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284526&extension=ts&play_token=3MkKx67QZX

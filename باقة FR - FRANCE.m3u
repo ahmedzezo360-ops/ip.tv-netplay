@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="553661" tvg-name="FR - FRANCE 2 4K" tvg-logo="http://103.176.90.154/picons/logos/france/553661.png" group-title="باقة FR - FRANCE",FR - FRANCE 2 4K
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553661&extension=ts&play_token=oFeHS29uck
+#EXTINF:-1 tvg-id="543150" tvg-name="FR - FRANCE 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543150.png" group-title="باقة FR - FRANCE",FR - FRANCE 3 UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543150&extension=ts&play_token=cxhGrhAZo9
+#EXTINF:-1 tvg-id="845446" tvg-name="FR - FRANCE 5 HEVC" tvg-logo="http://103.176.90.154/picons/logos/france/845446.png" group-title="باقة FR - FRANCE",FR - FRANCE 5 HEVC
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=845446&extension=ts&play_token=HNQ2wdKd4Y

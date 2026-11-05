@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="543195" tvg-name="FR - ARTE" tvg-logo="http://103.176.90.154/picons/logos/france/543195.png" group-title="وثائقي",FR - ARTE
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=543195&extension=ts
+#EXTINF:-1 tvg-id="553965" tvg-name="FR - ARTE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553965.png" group-title="وثائقي",FR - ARTE FHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=553965&extension=ts&play_token=ih3qnQ7pO6
+#EXTINF:-1 tvg-id="543561" tvg-name="FR - DISCOVERY CHANNEL" tvg-logo="http://103.176.90.154/picons/logos/france/543561.png" group-title="وثائقي",FR - DISCOVERY CHANNEL
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543561&extension=ts&play_token=MKBUZDGxzq

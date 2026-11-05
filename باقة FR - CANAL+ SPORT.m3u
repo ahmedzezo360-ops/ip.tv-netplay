@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="901669" tvg-name="FR - CANAL+ SPORT 3" tvg-logo="http://103.176.90.154/picons/logos/france/901669.png" group-title="باقة FR - CANAL+ SPORT",FR - CANAL+ SPORT 3
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=901669&extension=ts&play_token=DRZ4lJAcMW
+#EXTINF:-1 tvg-id="543382" tvg-name="FR - CANAL+ SPORT UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543382.png" group-title="باقة FR - CANAL+ SPORT",FR - CANAL+ SPORT UHD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=543382&extension=ts&play_token=fEbqWq6an5
+#EXTINF:-1 tvg-id="1389176" tvg-name="FR - CANAL+SPORT HD" tvg-logo="http://103.176.90.154/picons/logos/FRANCENEW/CANALPLUSSPORT.png" group-title="باقة FR - CANAL+ SPORT",FR - CANAL+SPORT HD
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1389176&extension=ts&play_token=AQa4nCpvoT

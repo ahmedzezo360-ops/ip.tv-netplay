@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="845407" tvg-name="FR - I24 NEWS HEVC" tvg-logo="http://103.176.90.154/picons/logos/france/845407.png" group-title="أخبار",FR - I24 NEWS HEVC
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=845407&extension=ts
+#EXTINF:-1 tvg-id="1284571" tvg-name="|4K| CNN UHD 4K" tvg-logo="http://103.176.90.154/picons/logos/logos/4K.png" group-title="أخبار",|4K| CNN UHD 4K
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=1284571&extension=ts

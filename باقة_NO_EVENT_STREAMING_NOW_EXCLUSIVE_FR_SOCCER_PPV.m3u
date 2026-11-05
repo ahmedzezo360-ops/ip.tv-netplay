@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1409443" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="باقة NO EVENT STREAMING NOW - | EXCLUSIVE | FR: SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=1409443&extension=ts
+#EXTINF:-1 tvg-id="1409427" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="باقة NO EVENT STREAMING NOW - | EXCLUSIVE | FR: SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1409427&extension=ts&play_token=S2WKVffgtF
+#EXTINF:-1 tvg-id="1409449" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 55" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="باقة NO EVENT STREAMING NOW - | EXCLUSIVE | FR: SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 55
+http://skunkytv.live/play/live.php?mac=00:1A:79:6D:B9:33&stream=1409449&extension=ts
+#EXTINF:-1 tvg-id="1409418" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="باقة NO EVENT STREAMING NOW - | EXCLUSIVE | FR: SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:6D:B9:33&stream=1409418&extension=ts&play_token=a8YrjSqLBk
